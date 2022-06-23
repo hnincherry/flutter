@@ -1,0 +1,17 @@
+1. State management
+2. Route management
+3. Localization
+4. Theme
+5. key/value storage
+6. Widget -> Snackbar, Dialog, Bottom Sheet
+
+// State management
+1. initialize -> controller class -> variable declare & method define -> we need to add .obs 
+behind the variable which we want to change in ui
+2. inject -> Get.put(Controller())
+3. recall -> Get.find()
+4. ui -> Obx()
+
+
+export PATH="$PATH":"$HOME/snap/flutter/common/flutter/.pub-cache/bin"
+export PATH="$PATH":"$HOME/.pub-cache/bin"

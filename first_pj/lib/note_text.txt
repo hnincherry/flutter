@@ -1,0 +1,17 @@
+1. main() => to run dart program
+2. runApp() => to render Flutter Widget
+3. MaterialApp / CupertinoApp
+    |--> Custom Widget Class
+    // BuildContext
+Example
+void main(){
+    runApp(MyApp);
+}
+
+class MyApp extends StatelessWidget {
+
+// build
+    |--> MaterialApp
+        |--> home: --> Custom Widget Class
+                        |--> we can use BuildContext to route to next page
+}
