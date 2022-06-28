@@ -1,0 +1,9 @@
+http://api.themoviedb.org/3/movie/popular?api_key=ceedd15696cb0c235a27eae8c744d770
+//Popular movie api
+
+
+https://api.themoviedb.org/3/movie/upcoming?api_key=ceedd15696cb0c235a27eae8c744d770
+//Upcoming movie api
+
+https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg
+//Cover Image api
